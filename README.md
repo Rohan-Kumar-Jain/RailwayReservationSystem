@@ -5,8 +5,7 @@ This is an application which can be used by the INDIAN RAILWAY for booking & can
 
 For Execution:simply run main.c
 
-For Demo:<iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/46ls96"></iframe>
-
+For Demo:<a href="https://imgflip.com/gif/46lrtf"><img src="https://imgflip.com/gif/46lrtf.gif"></a>
 
 Note:
 conio.h is a C header file used mostly by MS-DOS compilers to provide console input/output.[1] It is not part of the C standard library or ISO C, nor it is defined by POSIX.
