@@ -1,11 +1,11 @@
 # Railway Reservation System
 This is an application which can be used by the INDIAN RAILWAY for booking & cancelling the ticket and enquiry the train details.
 • Tools Used- C Language.
-• For storing data= File Handling is used.
+• For storing data File Handling is used.
 
 For Execution:simply run main.c
 
-For Demo:<img width="270" height="270" src="https://imgflip.com/embed/46lrtf"/>
+For Demo:<img width="270" height="270" src="https://imgflip.com/i/46lrtf"/>
 
 Note:
 conio.h is a C header file used mostly by MS-DOS compilers to provide console input/output.It is not part of the C standard library or ISO C, nor it is defined by POSIX.
