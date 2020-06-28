@@ -7,7 +7,7 @@ For Execution:simply run main.c
 
 For Demo:<a href="https://imgur.com/a/Z0dlUkL">See Demo</a>
 
-<video src="VID-20200628-WA0011.mp4" controls></video>
+<video src="VID-20200628-WA0011.mp4" controls height="200px" ></video>
 <!-- Your browser does not support the video tag. -->
 <!-- </video> -->
 
