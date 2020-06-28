@@ -3,11 +3,11 @@ This is an application which can be used by the INDIAN RAILWAY for booking & can
 • Tools Used- C Language.
 • For storing data File Handling is used.
 
-For Execution:<h1>simply run main.c</h1>
+For Execution:simply run main.c
 
 For Demo:<a href="https://imgur.com/a/Z0dlUkL">See Demo</a>
 
-<video width="320" height="240" src="VID-20200628-WA0011.mp4" type="video/mp4" controls>
+<video src="VID-20200628-WA0011.mp4" type="video/mp4" controls>
 Your browser does not support the video tag.
 </video>
 
