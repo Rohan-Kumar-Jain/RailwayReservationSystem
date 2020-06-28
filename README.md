@@ -7,8 +7,7 @@ For Execution:<h1>simply run main.c</h1>
 
 For Demo:<a href="https://imgur.com/a/Z0dlUkL">See Demo</a>
 
-<video width="320" height="240" controls>
-  <source src="VID-20200628-WA0011.mp4" type="video/mp4">
+<video width="320" height="240" src="VID-20200628-WA0011.mp4" type="video/mp4" controls>
 Your browser does not support the video tag.
 </video>
 
