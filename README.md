@@ -5,7 +5,7 @@ This is an application which can be used by the INDIAN RAILWAY for booking & can
 
 For Execution:simply run main.c
 
-For Demo:<a href="https://rohan-kumar-jain.github.io/railway/Demo.html">See Demo</a>
+For Demo:<a href="https://rohan-kumar-jain.github.io/RailwayReservationSystem/Demo.html">See Demo</a>
 
 
 Note:
