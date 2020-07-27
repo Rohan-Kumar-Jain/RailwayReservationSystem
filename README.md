@@ -1,4 +1,5 @@
 # Railway Reservation System
+
 This is an application which can be used by the INDIAN RAILWAY for booking & cancelling the ticket and enquiry the train details.
 • Tools Used- C Language.
 • For storing data File Handling is used.
@@ -15,3 +16,11 @@ This header declares several useful library functions for performing "console in
 The library functions declared by conio.h vary somewhat from compiler to compiler. As originally implemented in Lattice C, the various functions mapped directly to the first few DOS INT 21H functions. The library supplied with Borland's Turbo C did not use the DOS API but instead accessed video RAM directly for output and used BIOS interrupt calls. This library also has additional functions inspired from the successful Turbo Pascal one.
 
 Compilers that target non-DOS operating systems, such as Linux or OS/2, provide similar solutions; the unix-related curses library is very common here. Another example is SyncTERM's ciolib. The version of conio.h done by DJ Delorie for the GO32 extender is particularly extensive.
+
+# View of Application
+
+![](photos/home.jpg)
+
+![](photos/traindetails.jpg)
+
+![](photos/details.jpg)
